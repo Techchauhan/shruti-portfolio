@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.b9a365af.css",
-    "main.js": "./static/js/main.a2b23d8c.js",
-    "static/media/doctor-picture.png": "./static/media/doctor-picture.f55194f1a4497383779a.png",
-    "static/media/doctor-group.png": "./static/media/doctor-group.66657af07f8d4959000b.png",
-    "static/media/doctor-book-appointment.png": "./static/media/doctor-book-appointment.f03cdfe5b3296b60916f.png",
-    "static/media/profile-2.png": "./static/media/profile-2.4752a9db34458eeffcfa.png",
-    "static/media/profile-1.png": "./static/media/profile-1.9fd4bd4f864dd9558f7f.png",
-    "static/media/profile-3.png": "./static/media/profile-3.82e882bef6cba785cd4d.png",
-    "static/media/profile-4.png": "./static/media/profile-4.3c44185ab9c84614038f.png",
-    "index.html": "./index.html",
-    "main.b9a365af.css.map": "./static/css/main.b9a365af.css.map",
-    "main.a2b23d8c.js.map": "./static/js/main.a2b23d8c.js.map"
+    "main.css": "/shruti-portfolio/static/css/main.b9a365af.css",
+    "main.js": "/shruti-portfolio/static/js/main.5bb56000.js",
+    "static/media/doctor-picture.png": "/shruti-portfolio/static/media/doctor-picture.f55194f1a4497383779a.png",
+    "static/media/doctor-group.png": "/shruti-portfolio/static/media/doctor-group.66657af07f8d4959000b.png",
+    "static/media/doctor-book-appointment.png": "/shruti-portfolio/static/media/doctor-book-appointment.f03cdfe5b3296b60916f.png",
+    "static/media/profile-2.png": "/shruti-portfolio/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/profile-1.png": "/shruti-portfolio/static/media/profile-1.9fd4bd4f864dd9558f7f.png",
+    "static/media/profile-3.png": "/shruti-portfolio/static/media/profile-3.82e882bef6cba785cd4d.png",
+    "static/media/profile-4.png": "/shruti-portfolio/static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "/shruti-portfolio/index.html",
+    "main.b9a365af.css.map": "/shruti-portfolio/static/css/main.b9a365af.css.map",
+    "main.5bb56000.js.map": "/shruti-portfolio/static/js/main.5bb56000.js.map"
   },
   "entrypoints": [
     "static/css/main.b9a365af.css",
-    "static/js/main.a2b23d8c.js"
+    "static/js/main.5bb56000.js"
   ]
 }
