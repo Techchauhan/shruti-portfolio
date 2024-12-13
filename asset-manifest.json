@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Techchauhan/shruti-portfolio/static/css/main.b9a365af.css",
-    "main.js": "/Techchauhan/shruti-portfolio/static/js/main.dfd13b5d.js",
-    "static/media/doctor-picture.png": "/Techchauhan/shruti-portfolio/static/media/doctor-picture.f55194f1a4497383779a.png",
-    "static/media/doctor-group.png": "/Techchauhan/shruti-portfolio/static/media/doctor-group.66657af07f8d4959000b.png",
-    "static/media/doctor-book-appointment.png": "/Techchauhan/shruti-portfolio/static/media/doctor-book-appointment.f03cdfe5b3296b60916f.png",
-    "static/media/profile-2.png": "/Techchauhan/shruti-portfolio/static/media/profile-2.4752a9db34458eeffcfa.png",
-    "static/media/profile-1.png": "/Techchauhan/shruti-portfolio/static/media/profile-1.9fd4bd4f864dd9558f7f.png",
-    "static/media/profile-3.png": "/Techchauhan/shruti-portfolio/static/media/profile-3.82e882bef6cba785cd4d.png",
-    "static/media/profile-4.png": "/Techchauhan/shruti-portfolio/static/media/profile-4.3c44185ab9c84614038f.png",
-    "index.html": "/Techchauhan/shruti-portfolio/index.html",
-    "main.b9a365af.css.map": "/Techchauhan/shruti-portfolio/static/css/main.b9a365af.css.map",
-    "main.dfd13b5d.js.map": "/Techchauhan/shruti-portfolio/static/js/main.dfd13b5d.js.map"
+    "main.css": "./static/css/main.b9a365af.css",
+    "main.js": "./static/js/main.a2b23d8c.js",
+    "static/media/doctor-picture.png": "./static/media/doctor-picture.f55194f1a4497383779a.png",
+    "static/media/doctor-group.png": "./static/media/doctor-group.66657af07f8d4959000b.png",
+    "static/media/doctor-book-appointment.png": "./static/media/doctor-book-appointment.f03cdfe5b3296b60916f.png",
+    "static/media/profile-2.png": "./static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/profile-1.png": "./static/media/profile-1.9fd4bd4f864dd9558f7f.png",
+    "static/media/profile-3.png": "./static/media/profile-3.82e882bef6cba785cd4d.png",
+    "static/media/profile-4.png": "./static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "./index.html",
+    "main.b9a365af.css.map": "./static/css/main.b9a365af.css.map",
+    "main.a2b23d8c.js.map": "./static/js/main.a2b23d8c.js.map"
   },
   "entrypoints": [
     "static/css/main.b9a365af.css",
-    "static/js/main.dfd13b5d.js"
+    "static/js/main.a2b23d8c.js"
   ]
 }
